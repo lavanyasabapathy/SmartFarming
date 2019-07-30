@@ -1,0 +1,2 @@
+# SmartFarming
+This project makes use of classification and regression model to predict yield and cost per yield of various crops, which are influenced by factors such as humidity, type of soil, crop type, rainfall, season, etc., by using a supervised algorithm in machine-learning. This regression algorithm is carried out in previous years of agricultural data to predict future yield and cost per yield of crops.
